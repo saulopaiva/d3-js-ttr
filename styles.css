@@ -1,0 +1,57 @@
+body {
+  background: #dcd6c8;
+}
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 3px;
+}
+
+.link.green {
+  stroke: green;
+}
+
+.link.pink {
+  stroke: pink;
+}
+
+.link.blue {
+  stroke: blue;
+}
+
+.link.yellow {
+  stroke: yellow;
+}
+
+.link.gray {
+  stroke: gray;
+}
+
+.link.white {
+  stroke: white;
+}
+
+.link.orange {
+  stroke: orange;
+}
+
+.link.black {
+  stroke: black;
+}
+
+.link.red {
+  stroke: red;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
